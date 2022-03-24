@@ -24,5 +24,5 @@ root___css___styles.css |__js___app.js |__index.html |__README.md
 resourses used
 ----------------
 
-W3 Schools
+W3 Schools -
 MDN
